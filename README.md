@@ -58,19 +58,14 @@ Since the Word is in the quarantine stage:earth_asia:, and I’m having lots of 
 <code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Vanilla Javascript"></a></code>
 <code><a href = "https://nodejs.org/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS"></a></code>
 <code><a href = "https://reactjs.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="ReactJS"></a></code>
+<br>
 <code><a href = "https://www.npmjs.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="npm"></a></code>
- 
-<!-- Integrated Development Environment -->
- <code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code"></a></code>
- 
-<!-- Database -->
+<code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code"></a></code>
 <code><a href = "https://firebase.google.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Google Firbase"></a></code>
 <code><a href = "https://www.mongodb.com/"><img height="40" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" alt="MongoDB"></a></code>
 <!-- Scripting -->
 <code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></a></code>
- <!-- Version Control -->
 <code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></a></code>
-<!-- User Interface Desinging -->
 <code><a href = "https://inkscape.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/1024px-Inkscape_Logo.svg.png" alt="Inkscape"></a></code>
 <code><a href = "https://www.figma.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma"></a></code>
 </p>
