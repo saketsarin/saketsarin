@@ -10,7 +10,7 @@ I'm Saket! I'm a **Web Developer**:computer:, looking to solve **real-world prob
 [![Devpost](https://img.shields.io/badge/-Saket_Sarin-white?style=flat&logo=Devpost&logoColor=blue)](https://www.devpost.com/saketsarin)
 [![Linkedin](https://img.shields.io/badge/-Saket_Sarin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saket-sarin-02a479154/)
 [![Gmail](https://img.shields.io/badge/-saketsarin-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sarinsaket@gmail.com)
-[![Polywork](https://img.shields.io/badge/-Saket_Sarin-blue?style=flat&logo=Polywork&logoColor=white)](https://codepen.io/saketsarin/pens/public)
+[![Polywork](https://img.shields.io/badge/-Saket_Sarin-blue?style=flat&logo=Polywork&logoColor=white)](https://poly.work/saketsarin)
 [![HackerRank](https://img.shields.io/badge/-Saket_Sarin-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/saketsarin)
 
 <!-- Profile View Count and GitStats -->
