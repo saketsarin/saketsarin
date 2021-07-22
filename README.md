@@ -28,7 +28,7 @@ I'm Saket! I'm a **Web Developer**:computer:, looking to solve **real-world prob
 * 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:
-Since the Word is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
+Since the World is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
 
 * Learn to code:man_technologist: 5-6 hours a day with no distraction ( One or two day off a week. ) 
 * Read:newspaper: Dev and UI articles daily 
