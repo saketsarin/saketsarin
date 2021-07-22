@@ -7,10 +7,10 @@ I'm Saket! I'm a **Web Developer**:computer:, looking to solve **real-world prob
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 <!-- Your badges -->
-[![Devpost](https://img.shields.io/badge/-Saket_Sarin-white?style=flat&logo=Devpost&logoColor=blue)](https://https://devpost.com/saketsarin)
+[![Devpost](https://img.shields.io/badge/-Saket_Sarin-white?style=flat&logo=Devpost&logoColor=blue)](https://www.devpost.com/saketsarin)
 [![Linkedin](https://img.shields.io/badge/-Saket_Sarin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saket-sarin-02a479154/)
 [![Gmail](https://img.shields.io/badge/-saketsarin-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sarinsaket@gmail.com)
-[![CodePen](https://img.shields.io/badge/-saket_sarin-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/saketsarin/pens/public)
+[![Polywork](https://img.shields.io/badge/-Saket_Sarin-blue?style=flat&logo=Polywork&logoColor=white)](https://codepen.io/saketsarin/pens/public)
 [![HackerRank](https://img.shields.io/badge/-Saket_Sarin-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/saketsarin)
 
 <!-- Profile View Count and GitStats -->
