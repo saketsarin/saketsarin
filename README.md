@@ -41,7 +41,7 @@ I decided to take this time focusing on feeding more knowledge:books: to myself.
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
-  <a href="https://gitstats.me/saketsarin">
+  <a href="https://github-readme-stats.vercel.app/api?username=saketsarin&show_icons=true&theme=algolia&count_private=true&include_all_commits=true">
     <img width="460" height="auto" align="right" alt="Saket's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=saketsarin&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
   </a>
